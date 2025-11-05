@@ -1,0 +1,13 @@
+aiogram==2.25.1
+openai>=1.0.0
+edge-tts
+pydub
+requests
+tiktoken
+python-dotenv
+aiohttp
+loguru
+faster-whisper
+ffmpeg-python
+pymorphy2
+pymorphy2-dicts-ru
